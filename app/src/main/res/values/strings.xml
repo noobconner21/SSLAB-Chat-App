@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SSLAB Chat</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="enter_otp_sent_your_phone_number">Enter OTP sent your phone number</string>
+    <string name="confirm">Confirm</string>
+    <string name="resend_otp_in_30_sec">Resend OTP in 30 sec</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="login">Login</string>
 </resources>
